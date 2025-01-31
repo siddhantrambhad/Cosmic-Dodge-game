@@ -1,9 +1,7 @@
 # 🚀 Cosmic Dodge  
 
 **Cosmic Dodge** is a **Basic fast-paced arcade survival game** built with **Pygame**. You control a **UFO** and must dodge an increasing number of **falling comets**. The longer you survive, the higher your score!  
-![Cosmic Dodge Screenshot](game.png)
 
----
 ---
 
 ## 🎮 How to Play  
